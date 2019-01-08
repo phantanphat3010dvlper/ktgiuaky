@@ -1,0 +1,2 @@
+# ktgiuaky
+laptrinh c++
